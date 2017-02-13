@@ -6,7 +6,7 @@
 
 ## Setup/Installation Requirements
 
-_View at: [https://https://blank-and-chill.firebaseapp.com/](https://https://blank-and-chill.firebaseapp.com/)_
+_View at: [https://blank-and-chill.firebaseapp.com/](https://blank-and-chill.firebaseapp.com/)_
 
 _For developers, from the command line run:_
 ```
@@ -57,7 +57,7 @@ _Find the developers on GitHub: [Levi](https://github.com/levibibo), [Luke](http
 
 ## Technologies Used
 
-_Angular 2, TypeScript, SASS, HTML_
+_Angular 2, TypeScript, Sass, HTML_
 
 ### License
 
