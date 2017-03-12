@@ -1,14 +1,14 @@
 # _StreamSearch_
 
-#### By _**Levi Bibo, Luke Philips, Erica Nafziger, and Jonathan Thom**_
+#### By Levi Bibo, Luke Philips, Erica Nafziger, and Jonathan Thom
 
-#### _StreamSearch allows users to find where their favorite movies are streaming, as well as information about TV Shows, Actors, Directors, and Writers. It has a powerful search feature, as well as incorporating user authentication. Once logged in, a user may save movies and shows as 'favorites' to be viewed later._
+#### StreamSearch allows users to find where their favorite movies are streaming, as well as information about TV Shows, Actors, Directors, and Writers. It has a powerful search feature, as well as incorporating user authentication. Once logged in, a user may save movies and shows as 'favorites' to be viewed later.
 
 ## Setup/Installation Requirements
 
-_View at: [https://blank-and-chill.firebaseapp.com/](https://blank-and-chill.firebaseapp.com/)_
+View at: [https://blank-and-chill.firebaseapp.com/](https://blank-and-chill.firebaseapp.com/)
 
-_For developers, from the command line run:_
+For developers, from the command line run:
 ```
 git clone https://github.com/lukeephilips/blank-and-chill
 cd blank-and-chill
@@ -17,7 +17,7 @@ bower install
 touch src/app/api-key.ts
 ```
 
-_Then:_
+Then:
   1. Get a Guidebox API Key from [https://api.guidebox.com/](https://api.guidebox.com/).
   2. Get a TMDB API Key from [https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
   3. Create a new Firebase Project at [https://firebase.google.com/](https://firebase.google.com/)
@@ -41,11 +41,11 @@ _Then, in src/app/api-keys.ts, plug in the fetched keys in the following format:
     messagingSenderId: "{Your-Message-Sender-Id}"
   }
   ```
-_Finally, in the command line, run:_
+Finally, in the command line, run:
   ```
   ng serve
   ```
-  _And navigate to localhost:4200_
+  And navigate to localhost:4200
 
 ## Known Bugs
 
@@ -53,7 +53,7 @@ _Finally, in the command line, run:_
 
 ## Support and Contact Details
 
-_Find the developers on GitHub: [Levi](https://github.com/levibibo), [Luke](https://github.com/lukeephilips), [Erica](https://github.com/ericanafziger), [Jonathan](https://github.com/jonathanwthom)_
+Find the developers on GitHub: [Levi](https://github.com/levibibo), [Luke](https://github.com/lukeephilips), [Erica](https://github.com/ericanafziger), [Jonathan](https://github.com/jonathanwthom)
 
 ## Technologies Used
 
@@ -63,4 +63,4 @@ _Angular 2, TypeScript, Sass, HTML_
 
 *MIT*
 
-Copyright (c) 2016 **_Levi Bibo, Luke Philips, Erica Nafziger, and Jonathan Thom_**
+Copyright (c) 2016 Levi Bibo, Luke Philips, Erica Nafziger, and Jonathan Thom
